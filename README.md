@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ToTheMaxDev, Or just MonkeyMax
+- 👋 Hi!
 - 👀 I’m interested in Scratch, Python and C++
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on nothing...
